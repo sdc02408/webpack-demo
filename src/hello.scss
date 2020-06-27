@@ -1,0 +1,24 @@
+//body{
+//  background: #bbbbbb;
+//
+//  div{
+//    margin:2rem;
+//    padding:1rem;
+//    border:1px solid red;
+//  }
+//}
+//
+//.box{
+//  display: flex;
+//}
+body {
+  background: #bbbbbb;
+  div {
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid red;
+    border-radius: 2rem;
+    background-image: url("./assets/images/img_tree.gif"), url("./assets/images/paper.gif");
+    background-repeat: no-repeat, repeat;
+  }
+}
